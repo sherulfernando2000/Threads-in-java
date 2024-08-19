@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Join-isAlive" />
+        <module name="Extend-Thread-Class" />
+        <module name="sychronize-keyword" />
+        <module name="Priority" />
+        <module name="Extend-RunnableInterface" />
+        <module name="introduction" />
+        <module name="Lamda-Expression" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

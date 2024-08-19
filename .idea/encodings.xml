@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Extend-RunnableInterface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Extend-RunnableInterface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Extend-Thread-Class/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Extend-Thread-Class/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Join-Alive/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Join-Alive/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Join-isAlive/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Join-isAlive/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lamda-Expression/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lamda-Expression/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Priority/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Priority/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sychronize-keyword/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sychronize-keyword/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
